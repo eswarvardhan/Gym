@@ -100,8 +100,8 @@ h1 {
 }
 
 .workout {
-  width: 310px;
-  height: 460px;
+  width: 400px;
+  height: 400px;
   margin: 1.5rem;
 
   position: relative;
@@ -115,7 +115,7 @@ h1 {
 
 .workout div:nth-of-type(1) {
   position: absolute;
-  padding: 16px;
+  padding: 8px;
   width: 100%;
   opacity: 0;
   top: 0;
@@ -140,7 +140,7 @@ h1 {
 .workout div:nth-of-type(3) {
   z-index: 2;
   background-color: #343739;
-  padding: 16px 24px 24px 24px;
+  padding: 16px 24px 24px 16px;
 
   position: absolute;
   bottom: 0;

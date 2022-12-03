@@ -34,7 +34,6 @@ const App = () =>{
     <WorkoutContainer workout={Cardioworkout}/>
     <WorkoutContainer workout={Strengthworkout}/>
     <WorkoutContainer workout={PersonalTraining}/>
-    <WorkoutContainer workout={PersonalTraining} />
     </div>
     <div>
       <h3 style={{color:"white"}}>Contact Details</h3>
