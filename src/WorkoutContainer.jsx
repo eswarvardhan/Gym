@@ -4,7 +4,7 @@ const WorkoutContainer= ({workout}) =>{
     return(
 <div className="workout">
     <div>
-      <p>Rs {workout.cost}/-</p>
+      <p>{workout.cost}</p>
     </div>
     <div>
         <img src={workout.image} alt={workout.subscription}/>

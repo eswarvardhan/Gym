@@ -90,7 +90,7 @@ h1 {
 }
 
 .container {
-  width: 150%;
+  width: 135%;
   margin-top: 3rem;
 
   display: flex;
@@ -98,6 +98,7 @@ h1 {
   align-items: center;
   flex-wrap: wrap;
 }
+
 
 .workout {
   width: 400px;
