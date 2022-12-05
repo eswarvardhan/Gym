@@ -30,7 +30,6 @@ const dietPlan={
   "description": "Eat Well & Stay Fit!"
 }
 const App = () =>{
-   // const [workout, setWorkout] = useState([]);
 
   return (
     <div className="app">
